@@ -1,1 +1,1 @@
-# Projects-from-the-Database-Systems-course
+# Projects from the Database Systems course
